@@ -15,11 +15,14 @@
   "dependencies": {
     "lodash": "^4.17.2",
     "node-sass": "^4.0.0",
+    "q": "^1.4.1",
     "sass-loader": "^4.1.0",
     "vue": "^2.1.0",
-    "vue-material": "^0.4.3"
+    "vue-material": "^0.4.3",
+    "vue-router": "^2.1.1"
   },
   "devDependencies": {
+    "eslint": "^3.12.2",
     "autoprefixer": "^6.4.0",
     "babel-core": "^6.0.0",
     "babel-eslint": "^7.0.0",
